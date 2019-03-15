@@ -1,4 +1,4 @@
-# 使用Jekyll和githu搭建博客遇到的一些问题
+# 使用Jekyll和github搭建博客遇到的一些问题
 
 ## 起源
 

@@ -16,11 +16,11 @@
 
 除了图片以为，这里还有一个坑，就是在_confi.yml，是有description:的，很容易让人以为是网页blog下面那一行字，其实不是的，真正的是在index里的description。
 
-![1552664371995](C:\Users\ChloeClock\AppData\Roaming\Typora\typora-user-images\1552664371995.png)
+![]({{https://chloeclockc.github.io/}}\assets\1552664371995.png)
 
-![](C:\Users\ChloeClock\Desktop\TO DO\博客搭建修改不生效\config .jpg)
+![]({{https://chloeclockc.github.io/}}\assets\config.jpg)
 
-![](C:\Users\ChloeClock\Desktop\TO DO\博客搭建修改不生效\index.jpg)
+![]({{https://chloeclockc.github.io/}}\assets\index.jpg)
 
 这些修改之后，push到github上，是需要一段时间，博客才会有反馈效果出来的。即使ctrl F5刷新也需要时间。
 

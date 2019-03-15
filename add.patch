@@ -1,0 +1,23 @@
+Index: _config.yml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- _config.yml	(revision b39914fc47a04711330062ee53371a42839c3aae)
++++ _config.yml	(date 1552653313602)
+@@ -1,6 +1,6 @@
+ # Site settings
+-title: chloeclockc 的博客
+-SEOTitle: chloeclockc 的博客
++title: chloeclockc's blog
++SEOTitle: chloeclockc's blog
+ header-img: img/post-bg-desk.jpg
+ email: chloeclockc@gmail.com
+ description: "Every failure is leading towards success."
+diff --git img/post-bg-desk.jpg img/post-bg-desk.jpg
+deleted file mode 100644
+index daf7266a8bbdeafa5bcaa8c27bbe6feeeba7bd03..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+

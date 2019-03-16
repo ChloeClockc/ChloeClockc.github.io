@@ -6,8 +6,8 @@ author: "ChloeClockc"
 header-img: "img/post-bg-desk.jpg"
 header-mask: 0.4
 tags:
-  - Facebook
-  - 生活
+  - Jekyll
+  - blog
 ---
 
 

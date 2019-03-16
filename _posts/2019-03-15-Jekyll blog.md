@@ -1,4 +1,15 @@
-# 使用Jekyll和github搭建博客遇到的一些问题
+---
+layout: post
+title: "使用Jekyll和github搭建博客遇到的一些问题"
+subtitle: "Jekyll and github building blog problem"
+author: "ChloeClockc"
+header-img: "img/post-bg-desk.jpg"
+header-mask: 0.4
+tags:
+  - Facebook
+  - 生活
+---
+
 
 ## 起源
 

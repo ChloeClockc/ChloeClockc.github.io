@@ -103,7 +103,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "githubb",
+        title: "github",
         href: "https://github.com/ChloeClockc/"
     }
 ]
